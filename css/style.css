@@ -144,11 +144,18 @@ img{
 #dibujo{
     width: 336px;
     height: 304px;
-    border: solid;
 }
 
 .mostrar p{
     width: 80%;
     font-size: 20px;
     margin-left: 10%;
+}
+
+h2{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: solid;
+    width: fit-content;
 }

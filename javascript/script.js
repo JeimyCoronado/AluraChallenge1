@@ -28,6 +28,7 @@ function encriptar(){
                 i++;
             }
         }
+        info.value = '';
         info2.value = texto;
     }
     else{
@@ -50,6 +51,7 @@ function desencriptar(){
                 i++;
             }                
         }
+        info.value = '';
         info2.value = texto;
     }
     else{
